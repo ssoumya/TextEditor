@@ -2,3 +2,6 @@
 from branchB
 b
 master branch
+from branchA commit 1
+from branchB commit 1
+stash 1
