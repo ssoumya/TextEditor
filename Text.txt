@@ -1,1 +1,3 @@
 from branchC
+from branchB
+stash from B
