@@ -1,0 +1,2 @@
+stash file from B
+stash from A
