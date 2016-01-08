@@ -1,3 +1,4 @@
 from branchA
 from branchC
 stash from C
+Edited commit -m  in C
