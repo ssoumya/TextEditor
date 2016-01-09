@@ -1,1 +1,2 @@
 from branchB
+b
