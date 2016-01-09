@@ -1,2 +1,4 @@
+
 from branchB
 b
+master branch
